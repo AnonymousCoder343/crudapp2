@@ -1,0 +1,37 @@
+Ml Ass1 - 
+Predict the price of the Uber ride from a given pickup point to the  agreed drop-off location. 
+Perform following tasks: 
+1. Pre-process the dataset. 
+2. Identify outliers. 
+3. Check the correlation. 
+4. Implement linear regression and random forest regression models. 
+5. Evaluate the models and compare their respective scores like R2, RMSE,  
+etc.
+DAta SEt Link - https://www.kaggle.com/datasets/yasserh/uber-fares-dataset
+---------------------------------------------------------------------------------------------------------------
+ML_Ass2 - 
+Classify the email using the binary classification method. Email Spam detection has two states: a) Normal State – Not Spam, b) Abnormal  
+State – Spam. Use K-Nearest Neighbors and Support Vector Machine for classification. Analyze their performance.
+DataSet Link- https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
+-------------------------------------------------------------------------------------------------------------------------------------
+ML_Ass_3 -
+Given a bank customer, build a neural network-based classifier that  
+can determine whether they will leave or not in the next 6 months. 
+Dataset Description: The case study is from an open-source dataset  
+from Kaggle. The dataset contains 10,000 sample points with 14  
+distinct features such as CustomerId, CreditScore, Geography,  
+Gender, Age, Tenure, Balance, etc.  
+Perform following steps:  
+1. Read the dataset.  
+2. Distinguish the feature and target set and divide the data set into training  
+and test sets.  
+3. Normalize the train and test data.  
+4. Initialize and build the model. Identify the points of improvement and  
+implement the same.  
+5. Print the accuracy score and confusion matrix
+DataSet Link - https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling
+--------------------------------------------------------------------------------------------------------------------------
+ML_ASS_4 - 
+Implement K-Nearest Neighbors algorithm on diabetes.csv dataset.  
+Compute confusion matrix, accuracy, error rate, precision and recall on the given dataset.
+DataSet Link - https://www.kaggle.com/datasets/abdallamahgoub/diabetes
